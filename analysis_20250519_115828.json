@@ -1,0 +1,14 @@
+{
+    "Operating Margin": {
+        "mean": -1.5374222022968569,
+        "std": 0.0,
+        "min": -1.5374222022968569,
+        "max": -1.5374222022968569,
+        "median": -1.5374222022968569,
+        "iqr": 0.0,
+        "skewness": NaN,
+        "kurtosis": NaN,
+        "trend": 2.6729894974282594e-16,
+        "normality_test": {
+            "p_value": 1.0,
+            "is_normal": 

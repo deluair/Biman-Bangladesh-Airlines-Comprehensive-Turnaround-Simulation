@@ -1,0 +1,109 @@
+{
+  "quarter": "2025-Q1",
+  "financial_summary": {
+    "revenue": 1483580.1099999999,
+    "operating_cost": 1506389.0,
+    "ebitda": -22808.89000000013,
+    "net_income": -43647808.89,
+    "operating_margin": -1.5374222022968569,
+    "debt_to_equity": -1.6068838021396779,
+    "roic": 1.0163303449388383,
+    "cash_burn_rate": -484975.65433333337
+  },
+  "route_performance": {
+    "total_revenue": 1483580.1099999999,
+    "total_cost": 1506389.0,
+    "route_details": {
+      "DAC-CGP": {
+        "revenue": 1755.0,
+        "cost": 4860.0,
+        "profit": -3105.0,
+        "load_factor": 0.75,
+        "break_even_load_factor": 2.076923076923077
+      },
+      "DAC-ZYL": {
+        "revenue": 1201.1999999999998,
+        "cost": 4548.0,
+        "profit": -3346.8,
+        "load_factor": 0.7,
+        "break_even_load_factor": 2.6503496503496504
+      },
+      "DAC-DXB": {
+        "revenue": 186978.75,
+        "cost": 163150.0,
+        "profit": 23828.75,
+        "load_factor": 0.85,
+        "break_even_load_factor": 0.7416751903625411
+      },
+      "DAC-AUH": {
+        "revenue": 105776.72000000002,
+        "cost": 97626.0,
+        "profit": 8150.720000000016,
+        "load_factor": 0.82,
+        "break_even_load_factor": 0.7568141647803032
+      },
+      "DAC-SIN": {
+        "revenue": 84985.6,
+        "cost": 82092.0,
+        "profit": 2893.600000000006,
+        "load_factor": 0.8,
+        "break_even_load_factor": 0.7727615031252352
+      },
+      "DAC-KUL": {
+        "revenue": 71446.44,
+        "cost": 76314.0,
+        "profit": -4867.559999999998,
+        "load_factor": 0.78,
+        "break_even_load_factor": 0.8331404615821306
+      },
+      "DAC-LHR": {
+        "revenue": 452520.0,
+        "cost": 428740.0,
+        "profit": 23780.0,
+        "load_factor": 0.75,
+        "break_even_load_factor": 0.7105873773534871
+      },
+      "DAC-MAN": {
+        "revenue": 388915.79999999993,
+        "cost": 417284.0,
+        "profit": -28368.20000000007,
+        "load_factor": 0.7,
+        "break_even_load_factor": 0.7510592267015123
+      },
+      "DAC-NRT": {
+        "revenue": 154960.00000000003,
+        "cost": 183900.0,
+        "profit": -28939.99999999997,
+        "load_factor": 0.65,
+        "break_even_load_factor": 0.7713926174496645
+      },
+      "DAC-DEL": {
+        "revenue": 26535.6,
+        "cost": 33815.0,
+        "profit": -7279.4000000000015,
+        "load_factor": 0.72,
+        "break_even_load_factor": 0.9175145841812509
+      },
+      "DAC-CCU": {
+        "revenue": 8505.0,
+        "cost": 14060.0,
+        "profit": -5555.0,
+        "load_factor": 0.75,
+        "break_even_load_factor": 1.2398589065255732
+      }
+    }
+  },
+  "fleet_status": {
+    "total_aircraft": 21,
+    "active_aircraft": 21,
+    "maintenance_aircraft": 0,
+    "grounded_aircraft": 0,
+    "average_utilization": 9.928571428571429
+  },
+  "key_metrics": {
+    "operating_margin": -1.5374222022968569,
+    "roic": 1.0163303449388383,
+    "cash_burn_rate": -484975.65433333337,
+    "debt_to_equity": -1.6068838021396779
+  }
+}

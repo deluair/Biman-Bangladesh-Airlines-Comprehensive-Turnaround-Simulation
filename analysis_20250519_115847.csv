@@ -1,0 +1,100 @@
+,0
+Operating Margin_mean,-1.5374222022968569
+Operating Margin_std,0.0
+Operating Margin_min,-1.5374222022968569
+Operating Margin_max,-1.5374222022968569
+Operating Margin_median,-1.5374222022968569
+Operating Margin_iqr,0.0
+Operating Margin_skewness,
+Operating Margin_kurtosis,
+Operating Margin_trend,2.6729894974282594e-16
+Operating Margin_normality_test,"{'p_value': 1.0, 'is_normal': True}"
+Operating Margin_trend_analysis,"{'slope': 0.0, 'r_squared': 0.0, 'p_value': 1.0, 'std_err': 0.0}"
+ROIC_mean,1.0011945186186662
+ROIC_std,0.01120700985248835
+ROIC_min,0.986259384718728
+ROIC_max,1.0163303449388383
+ROIC_median,1.0010941724085491
+ROIC_iqr,0.015033973307714055
+ROIC_skewness,0.021489524700626685
+ROIC_kurtosis,-1.359666524799765
+ROIC_trend,-0.010023452499724835
+ROIC_normality_test,"{'p_value': 0.9715461778059745, 'is_normal': True}"
+ROIC_trend_analysis,"{'slope': -0.01002345249972465, 'r_squared': 0.9999198244354837, 'p_value': 4.0088585805508885e-05, 'std_err': 6.346594669748664e-05}"
+Cash Burn Rate_mean,-484975.65433333337
+Cash Burn Rate_std,0.0
+Cash Burn Rate_min,-484975.65433333337
+Cash Burn Rate_max,-484975.65433333337
+Cash Burn Rate_median,-484975.65433333337
+Cash Burn Rate_iqr,0.0
+Cash Burn Rate_skewness,
+Cash Burn Rate_kurtosis,
+Cash Burn Rate_trend,6.172126618135116e-11
+Cash Burn Rate_normality_test,"{'p_value': 1.0, 'is_normal': True}"
+Cash Burn Rate_trend_analysis,"{'slope': 0.0, 'r_squared': 0.0, 'p_value': 1.0, 'std_err': 0.0}"
+Route Performance_DAC-CGP,"{'profitability': {'mean': -3105.0, 'std': 0.0, 'min': -3105.0, 'max': -3105.0, 'median': -3105.0, 'profit_margin': -1.0}, 'load_factor': {'mean': 0.75, 'std': 0.0, 'min': 0.75, 'max': 0.75, 'median': 0.75}, 'seasonality': {'q1_mean': 0, 'q2_mean': 0, 'q3_mean': 0, 'q4_mean': 0}}"
+Route Performance_DAC-ZYL,"{'profitability': {'mean': -3346.8, 'std': 0.0, 'min': -3346.8, 'max': -3346.8, 'median': -3346.8, 'profit_margin': -1.0}, 'load_factor': {'mean': 0.7, 'std': 0.0, 'min': 0.7, 'max': 0.7, 'median': 0.7}, 'seasonality': {'q1_mean': 0, 'q2_mean': 0, 'q3_mean': 0, 'q4_mean': 0}}"
+Route Performance_DAC-DXB,"{'profitability': {'mean': 23828.75, 'std': 0.0, 'min': 23828.75, 'max': 23828.75, 'median': 23828.75, 'profit_margin': 1.0}, 'load_factor': {'mean': 0.85, 'std': 0.0, 'min': 0.85, 'max': 0.85, 'median': 0.85}, 'seasonality': {'q1_mean': 0, 'q2_mean': 0, 'q3_mean': 0, 'q4_mean': 0}}"
+Route Performance_DAC-AUH,"{'profitability': {'mean': 8150.720000000016, 'std': 0.0, 'min': 8150.720000000016, 'max': 8150.720000000016, 'median': 8150.720000000016, 'profit_margin': 1.0}, 'load_factor': {'mean': 0.82, 'std': 0.0, 'min': 0.82, 'max': 0.82, 'median': 0.82}, 'seasonality': {'q1_mean': 0, 'q2_mean': 0, 'q3_mean': 0, 'q4_mean': 0}}"
+Route Performance_DAC-SIN,"{'profitability': {'mean': 2893.600000000006, 'std': 0.0, 'min': 2893.600000000006, 'max': 2893.600000000006, 'median': 2893.600000000006, 'profit_margin': 1.0}, 'load_factor': {'mean': 0.8, 'std': 0.0, 'min': 0.8, 'max': 0.8, 'median': 0.8}, 'seasonality': {'q1_mean': 0, 'q2_mean': 0, 'q3_mean': 0, 'q4_mean': 0}}"
+Route Performance_DAC-KUL,"{'profitability': {'mean': -4867.559999999998, 'std': 0.0, 'min': -4867.559999999998, 'max': -4867.559999999998, 'median': -4867.559999999998, 'profit_margin': -1.0}, 'load_factor': {'mean': 0.78, 'std': 0.0, 'min': 0.78, 'max': 0.78, 'median': 0.78}, 'seasonality': {'q1_mean': 0, 'q2_mean': 0, 'q3_mean': 0, 'q4_mean': 0}}"
+Route Performance_DAC-LHR,"{'profitability': {'mean': 23780.0, 'std': 0.0, 'min': 23780.0, 'max': 23780.0, 'median': 23780.0, 'profit_margin': 1.0}, 'load_factor': {'mean': 0.75, 'std': 0.0, 'min': 0.75, 'max': 0.75, 'median': 0.75}, 'seasonality': {'q1_mean': 0, 'q2_mean': 0, 'q3_mean': 0, 'q4_mean': 0}}"
+Route Performance_DAC-MAN,"{'profitability': {'mean': -28368.20000000007, 'std': 0.0, 'min': -28368.20000000007, 'max': -28368.20000000007, 'median': -28368.20000000007, 'profit_margin': -1.0}, 'load_factor': {'mean': 0.7, 'std': 0.0, 'min': 0.7, 'max': 0.7, 'median': 0.7}, 'seasonality': {'q1_mean': 0, 'q2_mean': 0, 'q3_mean': 0, 'q4_mean': 0}}"
+Route Performance_DAC-NRT,"{'profitability': {'mean': -28939.99999999997, 'std': 0.0, 'min': -28939.99999999997, 'max': -28939.99999999997, 'median': -28939.99999999997, 'profit_margin': -1.0}, 'load_factor': {'mean': 0.65, 'std': 0.0, 'min': 0.65, 'max': 0.65, 'median': 0.65}, 'seasonality': {'q1_mean': 0, 'q2_mean': 0, 'q3_mean': 0, 'q4_mean': 0}}"
+Route Performance_DAC-DEL,"{'profitability': {'mean': -7279.4000000000015, 'std': 0.0, 'min': -7279.4000000000015, 'max': -7279.4000000000015, 'median': -7279.4000000000015, 'profit_margin': -1.0}, 'load_factor': {'mean': 0.72, 'std': 0.0, 'min': 0.72, 'max': 0.72, 'median': 0.72}, 'seasonality': {'q1_mean': 0, 'q2_mean': 0, 'q3_mean': 0, 'q4_mean': 0}}"
+Route Performance_DAC-CCU,"{'profitability': {'mean': -5555.0, 'std': 0.0, 'min': -5555.0, 'max': -5555.0, 'median': -5555.0, 'profit_margin': -1.0}, 'load_factor': {'mean': 0.75, 'std': 0.0, 'min': 0.75, 'max': 0.75, 'median': 0.75}, 'seasonality': {'q1_mean': 0, 'q2_mean': 0, 'q3_mean': 0, 'q4_mean': 0}}"
+Route Comparison_DAC-CGP_vs_DAC-ZYL,"{'t_statistic': inf, 'p_value': 0.0, 'significant_difference': True}"
+Route Comparison_DAC-CGP_vs_DAC-DXB,"{'t_statistic': -inf, 'p_value': 0.0, 'significant_difference': True}"
+Route Comparison_DAC-CGP_vs_DAC-AUH,"{'t_statistic': -inf, 'p_value': 0.0, 'significant_difference': True}"
+Route Comparison_DAC-CGP_vs_DAC-SIN,"{'t_statistic': -inf, 'p_value': 0.0, 'significant_difference': True}"
+Route Comparison_DAC-CGP_vs_DAC-KUL,"{'t_statistic': inf, 'p_value': 0.0, 'significant_difference': True}"
+Route Comparison_DAC-CGP_vs_DAC-LHR,"{'t_statistic': -inf, 'p_value': 0.0, 'significant_difference': True}"
+Route Comparison_DAC-CGP_vs_DAC-MAN,"{'t_statistic': inf, 'p_value': 0.0, 'significant_difference': True}"
+Route Comparison_DAC-CGP_vs_DAC-NRT,"{'t_statistic': inf, 'p_value': 0.0, 'significant_difference': True}"
+Route Comparison_DAC-CGP_vs_DAC-DEL,"{'t_statistic': inf, 'p_value': 0.0, 'significant_difference': True}"
+Route Comparison_DAC-CGP_vs_DAC-CCU,"{'t_statistic': inf, 'p_value': 0.0, 'significant_difference': True}"
+Route Comparison_DAC-ZYL_vs_DAC-DXB,"{'t_statistic': -inf, 'p_value': 0.0, 'significant_difference': True}"
+Route Comparison_DAC-ZYL_vs_DAC-AUH,"{'t_statistic': -inf, 'p_value': 0.0, 'significant_difference': True}"
+Route Comparison_DAC-ZYL_vs_DAC-SIN,"{'t_statistic': -inf, 'p_value': 0.0, 'significant_difference': True}"
+Route Comparison_DAC-ZYL_vs_DAC-KUL,"{'t_statistic': inf, 'p_value': 0.0, 'significant_difference': True}"
+Route Comparison_DAC-ZYL_vs_DAC-LHR,"{'t_statistic': -inf, 'p_value': 0.0, 'significant_difference': True}"
+Route Comparison_DAC-ZYL_vs_DAC-MAN,"{'t_statistic': inf, 'p_value': 0.0, 'significant_difference': True}"
+Route Comparison_DAC-ZYL_vs_DAC-NRT,"{'t_statistic': inf, 'p_value': 0.0, 'significant_difference': True}"
+Route Comparison_DAC-ZYL_vs_DAC-DEL,"{'t_statistic': inf, 'p_value': 0.0, 'significant_difference': True}"
+Route Comparison_DAC-ZYL_vs_DAC-CCU,"{'t_statistic': inf, 'p_value': 0.0, 'significant_difference': True}"
+Route Comparison_DAC-DXB_vs_DAC-AUH,"{'t_statistic': inf, 'p_value': 0.0, 'significant_difference': True}"
+Route Comparison_DAC-DXB_vs_DAC-SIN,"{'t_statistic': inf, 'p_value': 0.0, 'significant_difference': True}"
+Route Comparison_DAC-DXB_vs_DAC-KUL,"{'t_statistic': inf, 'p_value': 0.0, 'significant_difference': True}"
+Route Comparison_DAC-DXB_vs_DAC-LHR,"{'t_statistic': inf, 'p_value': 0.0, 'significant_difference': True}"
+Route Comparison_DAC-DXB_vs_DAC-MAN,"{'t_statistic': inf, 'p_value': 0.0, 'significant_difference': True}"
+Route Comparison_DAC-DXB_vs_DAC-NRT,"{'t_statistic': inf, 'p_value': 0.0, 'significant_difference': True}"
+Route Comparison_DAC-DXB_vs_DAC-DEL,"{'t_statistic': inf, 'p_value': 0.0, 'significant_difference': True}"
+Route Comparison_DAC-DXB_vs_DAC-CCU,"{'t_statistic': inf, 'p_value': 0.0, 'significant_difference': True}"
+Route Comparison_DAC-AUH_vs_DAC-SIN,"{'t_statistic': inf, 'p_value': 0.0, 'significant_difference': True}"
+Route Comparison_DAC-AUH_vs_DAC-KUL,"{'t_statistic': inf, 'p_value': 0.0, 'significant_difference': True}"
+Route Comparison_DAC-AUH_vs_DAC-LHR,"{'t_statistic': -inf, 'p_value': 0.0, 'significant_difference': True}"
+Route Comparison_DAC-AUH_vs_DAC-MAN,"{'t_statistic': inf, 'p_value': 0.0, 'significant_difference': True}"
+Route Comparison_DAC-AUH_vs_DAC-NRT,"{'t_statistic': inf, 'p_value': 0.0, 'significant_difference': True}"
+Route Comparison_DAC-AUH_vs_DAC-DEL,"{'t_statistic': inf, 'p_value': 0.0, 'significant_difference': True}"
+Route Comparison_DAC-AUH_vs_DAC-CCU,"{'t_statistic': inf, 'p_value': 0.0, 'significant_difference': True}"
+Route Comparison_DAC-SIN_vs_DAC-KUL,"{'t_statistic': inf, 'p_value': 0.0, 'significant_difference': True}"
+Route Comparison_DAC-SIN_vs_DAC-LHR,"{'t_statistic': -inf, 'p_value': 0.0, 'significant_difference': True}"
+Route Comparison_DAC-SIN_vs_DAC-MAN,"{'t_statistic': inf, 'p_value': 0.0, 'significant_difference': True}"
+Route Comparison_DAC-SIN_vs_DAC-NRT,"{'t_statistic': inf, 'p_value': 0.0, 'significant_difference': True}"
+Route Comparison_DAC-SIN_vs_DAC-DEL,"{'t_statistic': inf, 'p_value': 0.0, 'significant_difference': True}"
+Route Comparison_DAC-SIN_vs_DAC-CCU,"{'t_statistic': inf, 'p_value': 0.0, 'significant_difference': True}"
+Route Comparison_DAC-KUL_vs_DAC-LHR,"{'t_statistic': -inf, 'p_value': 0.0, 'significant_difference': True}"
+Route Comparison_DAC-KUL_vs_DAC-MAN,"{'t_statistic': inf, 'p_value': 0.0, 'significant_difference': True}"
+Route Comparison_DAC-KUL_vs_DAC-NRT,"{'t_statistic': inf, 'p_value': 0.0, 'significant_difference': True}"
+Route Comparison_DAC-KUL_vs_DAC-DEL,"{'t_statistic': inf, 'p_value': 0.0, 'significant_difference': True}"
+Route Comparison_DAC-KUL_vs_DAC-CCU,"{'t_statistic': inf, 'p_value': 0.0, 'significant_difference': True}"
+Route Comparison_DAC-LHR_vs_DAC-MAN,"{'t_statistic': inf, 'p_value': 0.0, 'significant_difference': True}"
+Route Comparison_DAC-LHR_vs_DAC-NRT,"{'t_statistic': inf, 'p_value': 0.0, 'significant_difference': True}"
+Route Comparison_DAC-LHR_vs_DAC-DEL,"{'t_statistic': inf, 'p_value': 0.0, 'significant_difference': True}"
+Route Comparison_DAC-LHR_vs_DAC-CCU,"{'t_statistic': inf, 'p_value': 0.0, 'significant_difference': True}"
+Route Comparison_DAC-MAN_vs_DAC-NRT,"{'t_statistic': inf, 'p_value': 0.0, 'significant_difference': True}"
+Route Comparison_DAC-MAN_vs_DAC-DEL,"{'t_statistic': -inf, 'p_value': 0.0, 'significant_difference': True}"
+Route Comparison_DAC-MAN_vs_DAC-CCU,"{'t_statistic': -inf, 'p_value': 0.0, 'significant_difference': True}"
+Route Comparison_DAC-NRT_vs_DAC-DEL,"{'t_statistic': -inf, 'p_value': 0.0, 'significant_difference': True}"
+Route Comparison_DAC-NRT_vs_DAC-CCU,"{'t_statistic': -inf, 'p_value': 0.0, 'significant_difference': True}"
+Route Comparison_DAC-DEL_vs_DAC-CCU,"{'t_statistic': -inf, 'p_value': 0.0, 'significant_difference': True}"
